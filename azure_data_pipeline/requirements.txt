@@ -1,0 +1,7 @@
+pandas>=2.0
+requests>=2.31
+python-dotenv>=1.0
+sqlalchemy>=2.0
+azure-storage-blob>=12.19
+pyodbc>=5.0
+azure-functions>=1.18
